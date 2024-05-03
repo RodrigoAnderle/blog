@@ -1,5 +1,5 @@
 ---
-title: Anderle R.V.R.
+title: "Anderle R.V.R."
 layout: home
 ---
 
