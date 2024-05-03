@@ -2,7 +2,7 @@ title: "Anderle R.V.R."
 author:
   name: Rodrigo Anderle
   email: rodrigoanderle@yahoo.com.br
-#  avatar: https://avatars.githubusercontent.com/u/12142365?v=4
+  avatar: https://avatars.githubusercontent.com/u/12142365?v=4
 #Logging at level: debug github-pages 231 | Error: (/github/workspace/./_config.yml): mapping values are not allowed in this context at line 3 column 7 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
