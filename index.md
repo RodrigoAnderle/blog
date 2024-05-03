@@ -1,6 +1,8 @@
 ---
-title: Welcome to my blog, still discovering what will be
+title: Anderle R.V.R.
+layout; home
 ---
 
-Anything else.
+Another blog.
+
 
