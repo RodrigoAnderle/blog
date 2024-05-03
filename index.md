@@ -1,6 +1,6 @@
 ---
 title: Anderle R.V.R.
-layout; home
+layout: home
 ---
 
 Another blog.
