@@ -10,4 +10,5 @@ I am also a fresh fater and husband. Its of my desire to make this blog a point 
 
 Previosly this blog, I already try other tow times. One more focus on regional economics analysis, where I was trying to find a way to implement what I have learned in my master and get some money withou have a fix job. Didn't work. The other was another try to implement some of my expertisse using R-Bookdown. It was nice, but at some point I didn't have the energy to follow. Now, I am here starting all over again. For some reason I think is more interesting than try to reburn my older blogs. 
 Almost forgot, this is me:
+
 ![Rodrigo Volmir Rezende Anderle](https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RcyFevMAAAAJ&citpid=1)
