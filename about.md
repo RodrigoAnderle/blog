@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: page
 ---
 
 My full name is Rodrigo Volmir Rezende Anderle, I am a postdoctoral research in health economics in a realy nice project called DSAIDS, about the effects of Social Determinants of Health on HIV/AIDS. I have PhD in Applied Economics by the Federal University of Bahia, and a Mater degree in Regional Economis by the Federal University of Pernambuco. My underdrag was also in Economics at the University of Caxias do Sul.
