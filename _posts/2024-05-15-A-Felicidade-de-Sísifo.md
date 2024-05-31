@@ -5,7 +5,7 @@ layout: post
 ---
 Few days ago I found this Instagram post:
 
-!["É preciso imaginar Sísifo Feliz" Albert Camus](https://www.instagram.com/reel/C6ykS8nLapj/?igsh=YWdwcTVrdGhxOG8%3D)
+["É preciso imaginar Sísifo Feliz" Albert Camus](https://www.instagram.com/reel/C6ykS8nLapj/?igsh=YWdwcTVrdGhxOG8%3D)
 
 The phrase about the Sísifo myth is mean to say that, besides the useless nature of the task we have to find happyness in the fight. As the post explains.
 Well, today I received a rejection from a summer school that was intend to participate. I have low expectatives. I am not a brilliant resarcher and I am still learning how to work on this publish or perish world. Anyway, I prepered myself to submit my application in time. I asked to my supervisor his reference letter, even knowning the topic was not related to our project, and make a plan with my wife to proceed with the cares of our daughter - she would need to be alone to care of her during a week and we never got alone for this time. 
