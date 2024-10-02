@@ -5,7 +5,7 @@ layout: post
 ---
 A few days ago I found this Instagram post:
 
-[![](https://www.youtube.com/watch?v=sV-231Y8HHI)]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sV-231Y8HHI?si=tnGbEbtV_S-FOc1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ["É preciso imaginar Sísifo Feliz" Albert Camus](https://www.instagram.com/reel/C6ykS8nLapj/?igsh=YWdwcTVrdGhxOG8%3D)
 
