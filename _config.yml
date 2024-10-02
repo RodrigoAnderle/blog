@@ -7,7 +7,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
- A personal blog about research, R coding, econometric, complex systems, acadmic writing, parenthood, society and several other stuff.
+ A personal blog about research, R coding, econometrics, complex systems, academic writing, parenthood, society, and several other things.
  Please, be welcome!
 
 # Build settings
